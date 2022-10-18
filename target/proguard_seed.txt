@@ -1,0 +1,15 @@
+org.bekker.ColorChooser
+org.bekker.ColorChooser: javax.swing.JColorChooser tcc
+org.bekker.ColorChooser: javax.swing.JColorChooser bcc
+org.bekker.ColorChooser: javax.swing.JLabel banner
+org.bekker.ColorChooser: int font_size
+org.bekker.ColorChooser: ColorChooser()
+org.bekker.ColorChooser: void increaseFontSize()
+org.bekker.ColorChooser: void decreaseFontSize()
+org.bekker.ColorChooser: void stateChanged(javax.swing.event.ChangeEvent)
+org.bekker.ColorChooser: void createAndShowGUI()
+org.bekker.ColorChooser: void main(java.lang.String[])
+org.bekker.ColorChooser: void access$100()
+org.bekker.ColorChooser: void access$200()
+org.bekker.ColorChooser: int access$300()
+org.bekker.ColorChooser: void <clinit>()
